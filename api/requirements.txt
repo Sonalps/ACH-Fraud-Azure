@@ -1,7 +1,0 @@
-fastapi
-uvicorn[standard]
-gunicorn
-pandas
-joblib
-xgboost
-numpy
